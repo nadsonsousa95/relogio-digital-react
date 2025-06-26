@@ -53,9 +53,7 @@ yarn start
 
 ## ✨ Funcionalidades
 
-- ✅ Funcionalidade 1
-- ✅ Funcionalidade 2
-- ✅ Funcionalidade 3
+- ✅ Relógio digital com ajuste de horário pelo usuário
 
 
 ## 👨‍💻 Autor
